@@ -24,7 +24,7 @@ spec:
     spec:
       containers:
         - name: app
-          image:  siddharth67/block-buster-dev:7.1.0
+          image:  pawan6782/block-buster-dev:7.1.0
           imagePullPolicy: Always
           resources:
             requests:
